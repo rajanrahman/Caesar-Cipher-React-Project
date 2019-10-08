@@ -1,3 +1,10 @@
+PLANNED FUTURE CHANGES:
+
+-Add decoder
+-Validate if user entered at least a number and character
+-Set up a nicer user interface
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
