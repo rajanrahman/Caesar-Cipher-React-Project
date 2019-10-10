@@ -1,8 +1,7 @@
-PLANNED FUTURE CHANGES:
+EDIT: this project will be apart of a bigger project where I will have multiple encoder options available. However this can definitly be used to generate some quick Caesar Cipher encoding!
 
--Add decoder
--Validate if user entered at least a number and character
--Set up a nicer user interface
+P̶L̶A̶N̶N̶E̶D̶ ̶F̶U̶T̶U̶R̶E̶ ̶C̶H̶A̶N̶G̶E̶S̶:̶ ̶ ̶-̶
+A̶d̶d̶ ̶d̶e̶c̶o̶d̶e̶r̶ ̶V̶a̶l̶i̶d̶a̶t̶e̶ ̶i̶f̶ ̶u̶s̶e̶r̶ ̶e̶n̶t̶e̶r̶e̶d̶ ̶a̶t̶ ̶l̶e̶a̶s̶t̶ ̶a̶ ̶n̶u̶m̶b̶e̶r̶ ̶a̶n̶d̶ ̶c̶h̶a̶r̶a̶c̶t̶e̶r̶ ̶-̶S̶e̶t̶ ̶u̶p̶ ̶a̶ ̶n̶i̶c̶e̶r̶ ̶u̶s̶e̶r̶ ̶i̶n̶t̶e̶r̶f̶a̶c̶e̶
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
